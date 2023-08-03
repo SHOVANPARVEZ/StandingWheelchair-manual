@@ -18,16 +18,16 @@
 ![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/StandingWheelchair-Manual.png)
  
 ### DISCLAIMER:
-<P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, we do not provide any warranty in any aspect.
+<P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.
 
 ### WARNING:
 - The device is intended stricktly for research and education purposes.
 - The wheelchiar is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Safety and Review Board.
 
 ### CONTACT:
-<P align="justify"> Shovan Parvez
- Email: xxx
- Phone: xxx
+<P align="justify"> Shovan Parvez <br/>
+ Email: xxx <br/>
+ Phone: xxx <br/>
 
 ### LICENSE:
 ##### Documentation and all the source files are licensed under the Creative Commons Attribution Share Alike 4.0 International License
