@@ -24,5 +24,10 @@
 - The device is intended stricktly for research and education purposes.
 - The wheelchiar is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Safety and Review Board.
 
+### CONTACT:
+<P align="justify"> Shovan Parvez
+ Email: xxx
+ Phone: xxx
+
 ### LICENSE:
 ##### Documentation and all the source files are licensed under the Creative Commons Attribution Share Alike 4.0 International License
