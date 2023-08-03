@@ -1,4 +1,4 @@
-# <P align="center"> StandingWheelchiar - An open design of a manual standing wheelchiar for paraplegics 
+# <P align="center"> StandingWheelchiar - An open design of a manual standing wheelchiar for people with paralysis 
  
 ### OBJECTIVES:
 <P align="justify"> The objective of the project was to design a low-cost manual standing wheelchair for people with paraplegia caused by spinal cord injury 
