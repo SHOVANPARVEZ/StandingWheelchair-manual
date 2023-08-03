@@ -13,9 +13,9 @@
 - Safety feature: xx <br/>
 
 ### DESIGN:
-<P align="justify"> xx.
+<P align="justify"> xxxxxxxxx.
 
-![Block-Diagram](https://github.com/OpenXStim/openVstim/blob/main/Images/BlockDiagram.png)
+![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/Screenshot 2023-07-27 131027.png)
  
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested by with utmost care and to the best of my knowledge, we do not provide any warranty in any aspect.
