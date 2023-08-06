@@ -13,7 +13,7 @@
   <tab/> Width = 70 cm <br/>
   <tab/> Depth = 110 cm <br/>
   <tab/> Height = 90 cm (sitting), 140cm (standing) <br/>
-- Weight: 25Kgm  <br/>
+- Weight: 25 kgm  <br/>
 - Required force: Low to Moderate (depending on user's weight) <br/>
 - Safety features: <br/>
   <tab/> Anti-sleep wheels <br/>
