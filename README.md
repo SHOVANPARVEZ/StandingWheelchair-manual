@@ -35,7 +35,7 @@
 - Back wheel: Typical wheels that are commonly found in the wheelchairs are used.
 - Knee guard: Another essential componet of our standing wheelchiar since it is designed for the users who have no strength in their legs. The knee guards prevent the knee from collapsing and help the users stand upright.
 - Base frame: The main frame of the wheelchair that holds every parts of the wheelchair together. Each part can be mounted and unmounted to the base frame which allows low repair costs.
-- Front wheel: Caster wheels are used in the front side of the wheelchair. They use a locking system to reduce the risk of the user from falling.
+- Front wheel: Castor wheels are used in the front side of the wheelchair. They use a locking system to reduce the risk of the user from falling.
 - Footrest: This special footrest is used to support the user's feet while sitting and standing. During the transition from a sitting to a standing position, the footrest height changes to allow safe standing.
  
 ### DISCLAIMER:
