@@ -9,7 +9,7 @@
 ![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/StandingWheelchair-Manual.png)
 
 ### SPECIFICATIONS:
-- Dimention:
+- Dimention: <br/>
   <tab/> Width = 70 cm <br/>
   <tab/> Depth = 110 cm <br/>
   <tab/> Height = 90 cm (sitting), 140cm (standing) <br/>
