@@ -23,7 +23,7 @@
 ### DESIGN:
 <P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following: 
 
-![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/StandingWheelchair-Manual.png)
+![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/Wheelchiar components.png)
  
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.
