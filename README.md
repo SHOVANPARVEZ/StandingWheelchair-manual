@@ -25,6 +25,24 @@
 <P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following: <br/>
 
 ![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/Wheelchiar-components.png)
+
+- Back support: Conventional wheelchiar back support is use. In addition a chaise belt is attached to the back support to protect the user from falling during the transition to standing position from sitting position.
+
+- Link shaft: The seat and back support of the chair are held erect by link shafts as the chair transforms to the standing position.
+
+- Seat cusion: Conventional seat cusion is used. It does not pose any discomfort to the user either in sitting or standing position.
+
+- Gas spring: Nitrogen oxide gas springs are used to assist the wheelchair in transforming from sitting to standing position.
+
+- Back wheel: Typical wheels that are commonly found in the wheelchairs are used.
+
+- Knee guard: Another essential componet of our standing wheelchiar since it is designed for the users who have no strength in their legs. The knee guards prevent the knee from collapsing and help the users stand upright.
+
+- Base frame: The main frame of the wheelchair that holds every parts of the wheelchair together. Each part can be mounted and unmounted to the base frame which allows low repair costs.
+
+- Front wheel: Caster wheels are used in the front side of the wheelchair. They use a locking system to reduce the risk of the user from falling.
+
+- Footrest: This special footrest is used to support the user's feet while sitting and standing. During the transition from a sitting to a standing position, the footrest height changes to allow safe standing.
  
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.
