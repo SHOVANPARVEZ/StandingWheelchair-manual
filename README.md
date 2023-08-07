@@ -43,7 +43,7 @@
 
 ### WARNING:
 - The device is intended stricktly for research and education purposes.
-- The wheelchiar is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Safety and Review Board.
+- The wheelchiar is not certified for use without receving prior approval from a local safety board or review committee.
 
 ### CONTACT:
 <P align="justify"> Shovan Parvez <br/>
